@@ -47,8 +47,8 @@ As atividades seguem o "Padrão Esmeraldo Junior":
 
 ## 💻 Como Executar
 
-1. Clone o repositório.
-2. Certifique-se de que o **Vite** está configurado.
+1. Clone o repositório: `https://github.com/EsmeraldoCarneiro/Exercicios-07_JS_JSX_HTML_React.git`
+2. Certifique-se de que o `Vite` está configurado.
 3. Instale as dependências: `npm install`
 4. Inicie o projeto: `npm run dev`
 
@@ -57,7 +57,3 @@ As atividades seguem o "Padrão Esmeraldo Junior":
 **Desenvolvido por:** Esmeraldo Junior 👨‍💻
 
 *Analista e Desenvolvedor de Sistemas*
-
----
-
-**Ficou um excelente portfólio de engenharia de componentes! Gostaria de continuar com mais exercícios de classe ou quer fazer a transição para Hooks (Functional Components) agora?**
